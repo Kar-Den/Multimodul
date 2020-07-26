@@ -13,7 +13,8 @@
 <!--  <groupId>by.pozitivshar</groupId>-->
   <artifactId>warApp</artifactId>
 <!--  <version>1.0-SNAPSHOT</version>-->
-  <packaging>war</packaging>
+<!-- Если сделать jar то всё заработает -->
+  <packaging>jar</packaging>
 
 
 
